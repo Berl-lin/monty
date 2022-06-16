@@ -6,9 +6,9 @@
 
 ## Resources
 
-- [Google] (https://www.google.com/search?q=stack+and+queue&sxsrf=ALiCzsYkWib2UHFE92xLbnBlEfVlyb8LGA%3A1655416759690&source=hp&ei=t6erYqquJuKqlQeB9a-QCA&iflsig=AJiK0e8AAAAAYqu1x5Bkm4UTyTcQA_nbPmg6ULh0IsLs&ved=0ahUKEwjq5ab_-7L4AhViVeUKHYH6C4IQ4dUDCAc&uact=5&oq=stack+and+queue&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARQAFgAYNMDaABwAHgAgAH4AYgB-AGSAQMyLTGYAQDAAQE&sclient=gws-wiz)
-- [Stack Overflow] (https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files)
-- [Compilation & Output - stderr] (https://github.com/sickill/stderred)
+- [Google](https://www.google.com/search?q=stack+and+queue&sxsrf=ALiCzsYkWib2UHFE92xLbnBlEfVlyb8LGA%3A1655416759690&source=hp&ei=t6erYqquJuKqlQeB9a-QCA&iflsig=AJiK0e8AAAAAYqu1x5Bkm4UTyTcQA_nbPmg6ULh0IsLs&ved=0ahUKEwjq5ab_-7L4AhViVeUKHYH6C4IQ4dUDCAc&uact=5&oq=stack+and+queue&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgARQAFgAYNMDaABwAHgAgAH4AYgB-AGSAQMyLTGYAQDAAQE&sclient=gws-wiz)
+- [Stack Overflow](https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files)
+- [Compilation & Output - stderr](https://github.com/sickill/stderred)
 
 ----------------
 
@@ -48,7 +48,7 @@
 
 ------------------
 
-Solo by yours truly Christabell Owusu :grin: :see_no_evil: Connect via [Twitter] (https://twitter.com/berla_sterling) and/or [Github] (https://github.com/Berl-lin).
+Solo by yours truly Christabell Owusu :grin: :see_no_evil: Connect via [Twitter](https://twitter.com/berla_sterling) and/or [Github](https://github.com/Berl-lin).
 
 ###### Let's make tea not love! :wink:
 

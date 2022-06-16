@@ -48,7 +48,7 @@
 
 ------------------
 
-Solo by yours truly Christabell Owusu :grin: :see_no_evil: 
+Solo by yours truly Christabell Owusu :grin: :see_no_evil: <br />
 Please connect via [Twitter](https://twitter.com/berla_sterling) and/or [Github](https://github.com/Berl-lin). **THANK YOU!**
 
 ###### Let's make tea not love! :wink:
